@@ -23,7 +23,6 @@ Digital projects for a specialty coffee events company, including its Shopify we
 - Shopify / Liquid
 - JavaScript / Tailwind CSS
 - Next.js / TypeScript
-- Supabase
 
 🌐 https://wildbeans.fr/
 
