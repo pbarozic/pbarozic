@@ -2,38 +2,48 @@
 
 Web developer based in Paris, with a previous background in data analytics.
 
-I originally worked with Python, SQL and automation before moving into web development. Today I'm building web projects mainly with React / Next.js and Shopify, while continuing to expand my experience through freelance and client projects.
+I originally worked with **Python, SQL and automation** before transitioning into web development. I'm currently developing my experience through real-world projects, mainly using **React / Next.js and Shopify**, with the goal of progressively building a freelance activity alongside my work as a specialty coffee barista.
 
 ## Selected work
 
 ### 🌱 Pépinières de Judicarré
+
 Website developed for a French plant nursery.
 
-- React / Next.js
-- Tailwind CSS
-- Responsive design
-- Custom backend
-- Production deployment
+* React / Next.js
+* Tailwind CSS
+* Responsive design
+* Custom backend
+* Production deployment
 
 🌐 https://www.pepinieresdejudicarre.com/
 
 ### ☕ Wild Beans
-Digital projects for a specialty coffee events company, including its Shopify website and internal tools.
 
-- Shopify / Liquid
-- JavaScript / Tailwind CSS
+Shopify website developed for a specialty coffee events company.
+
+* Shopify / Liquid
+* JavaScript / Tailwind CSS
+* Custom sections
+* Responsive design
 
 🌐 https://wildbeans.fr/
 
 ## Tech
 
-**Frontend:** JavaScript · TypeScript · React · Next.js · HTML · CSS · Tailwind CSS  
-**E-commerce:** Shopify · Liquid  
-**Backend & Data:** Node.js · Express · Supabase · PostgreSQL · MongoDB · Python · SQL  
-**Tools:** Git · GitHub · Vercel
+**Currently working with:**
+JavaScript · React · Next.js · HTML · CSS · Tailwind CSS · Shopify · Liquid · Git · GitHub
+
+**Previous experience:**
+Python · SQL · PostgreSQL · Metabase · Automation
+
+**Familiar with:**
+TypeScript · Node.js · Express · MongoDB · Supabase · Vercel
 
 ## Currently
 
-Building more real-world web projects and developing my freelance activity, with a particular interest in frontend development, Shopify and modern website development.
+I'm combining my work as a **specialty coffee barista** with the development of a **freelance web activity**.
+
+I'm looking to gain more experience through real-world projects, particularly in **frontend development, Shopify and modern website development**, while progressively expanding my skills and exploring new tools and technologies.
 
 [LinkedIn](https://www.linkedin.com/in/pierre-baptiste-rozic-6098ab90/)
